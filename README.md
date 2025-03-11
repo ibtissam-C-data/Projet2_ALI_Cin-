@@ -1,2 +1,2 @@
-# Projet2_ALI_Cin-
+# Projet2_ALI_Ciné
 Python_ML_BI_Streamlit
